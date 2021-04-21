@@ -24,6 +24,8 @@
 //   return $output;
 // }
 
+echo "Ciao";
+
 $botToken = '1787672753:AAHgbD1VYtlO49DpAPQIi2mgoO6hjLnhabs';
 $website = 'https://api.telegram.org/bot'.$botToken;
 
